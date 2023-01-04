@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "346096519710",
+    "firebase_url": "https://andriodprojects-1310c.firebaseio.com",
+    "project_id": "andriodprojects-1310c",
+    "storage_bucket": "andriodprojects-1310c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346096519710:android:6e587bc2093eee8cb13c0f",
+        "android_client_info": {
+          "package_name": "com.example.abasad.reciptsconverter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346096519710-pehqsf9q1hn7855d3h23ocmqfdt7ifcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVbEB2Rp3t_d5swaKP26vQEfAjnNm501k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346096519710-pehqsf9q1hn7855d3h23ocmqfdt7ifcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

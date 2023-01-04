@@ -1,0 +1,2646 @@
+{
+  version: "1.0",
+  encoding: "UTF-8",
+  feed: {
+    xmlns: "http://www.w3.org/2005/Atom",
+    xmlns$openSearch: "http://a9.com/-/spec/opensearchrss/1.0/",
+    xmlns$gsx: "http://schemas.google.com/spreadsheets/2006/extended",
+    id: {
+      $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic"
+    },
+    updated: {
+      $t: "2019-11-17T15:33:41.066Z"
+    },
+    category: [
+      {
+        scheme: "http://schemas.google.com/spreadsheets/2006",
+        term: "http://schemas.google.com/spreadsheets/2006#list"
+      }
+    ],
+    title: {
+      type: "text",
+      $t: "USD"
+    },
+    link: [
+      {
+        rel: "alternate",
+        type: "application/atom+xml",
+        href: "https://docs.google.com/spreadsheets/d/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/pubhtml"
+      },
+      {
+        rel: "http://schemas.google.com/g/2005#feed",
+        type: "application/atom+xml",
+        href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic"
+      },
+      {
+        rel: "http://schemas.google.com/g/2005#post",
+        type: "application/atom+xml",
+        href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic"
+      },
+      {
+        rel: "self",
+        type: "application/atom+xml",
+        href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic?alt=json"
+      }
+    ],
+    author: [
+      {
+        name: {
+          $t: "euiweui"
+        },
+        email: {
+          $t: "euiweui@gmail.com"
+        }
+      }
+    ],
+    openSearch$totalResults: {
+      $t: "89"
+    },
+    openSearch$startIndex: {
+      $t: "1"
+    },
+    entry: [
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/cokwr"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "AED"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 3.6732"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/cokwr"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/cpzh4"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "ANG"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 1.721969"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/cpzh4"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/cre1l"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "ARS"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 59.50087"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/cre1l"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/chk2m"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "AUD"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 1.466491"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/chk2m"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/ciyn3"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "BDT"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 84.68189"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/ciyn3"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/ckd7g"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "BGN"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 1.769746"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/ckd7g"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/clrrx"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "BHD"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 0.3770597"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/clrrx"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/cyevm"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "BND"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 1.359116"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/cyevm"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/cztg3"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "BOB"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 6.902898"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/cztg3"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/d180g"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "BRL"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 4.197291"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/d180g"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/d2mkx"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "BWP"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 10.86261"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/d2mkx"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/cssly"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "CAD"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 1.322315"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/cssly"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/cu76f"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "CHF"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 0.9893472"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/cu76f"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/cvlqs"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "CLP"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 775.4"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/cvlqs"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/cx0b9"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "CNY"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 7.0084"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/cx0b9"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/d9ney"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "COP"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 3448.011"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/d9ney"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/db1zf"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "CRC"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 580.6828"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/db1zf"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/dcgjs"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "CZK"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 23.15595"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/dcgjs"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/ddv49"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "DKK"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 6.76135"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/ddv49"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/d415a"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "DOP"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 52.74764"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/d415a"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/d5fpr"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "DZD"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 120.0583"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/d5fpr"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/d6ua4"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "EGP"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 16.13204"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/d6ua4"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/d88ul"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "EUR"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 0.9048709"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/d88ul"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/dkvya"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "FJD"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 2.19355"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/dkvya"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/dmair"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "GBP"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 0.7747433"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/dmair"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/dnp34"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "HKD"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 7.827185"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/dnp34"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/dp3nl"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "HNL"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 24.5781"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/dp3nl"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/df9om"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "HRK"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 6.7296"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/df9om"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/dgo93"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "HUF"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 302.749"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/dgo93"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/di2tg"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "IDR"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 14073.46"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/di2tg"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/djhdx"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "ILS"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 3.47225"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/djhdx"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/dw4je"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "INR"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 71.698"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/dw4je"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/dxj3v"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "JMD"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 140.5594"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/dxj3v"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/dyxo8"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "JOD"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 0.709"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/dyxo8"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/e0c8p"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "JPY"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 108.769"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/e0c8p"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/dqi9q"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "KES"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 101.9608"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/dqi9q"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/drwu7"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "KRW"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 1163.63"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/drwu7"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/dtbek"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "KWD"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 0.30372"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/dtbek"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/dupz1"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "KYD"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 0.8318478"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/dupz1"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/e7d2q"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "KZT"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 387.3481"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/e7d2q"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/e8rn7"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "LBP"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 1509.415"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/e8rn7"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/ea67k"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "LKR"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 179.8853"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/ea67k"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/ebks1"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "LTL"
+        },
+        content: {
+          type: "text",
+          $t: ""
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/ebks1"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/e1qt2"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "LVL"
+        },
+        content: {
+          type: "text",
+          $t: ""
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/e1qt2"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/e35dj"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "MAD"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 9.658502"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/e35dj"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/e4jxw"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "MDL"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 17.52934"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/e4jxw"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/e5yid"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "MKD"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 55.67218"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/e5yid"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/eilm2"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "MUR"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 36.60203"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/eilm2"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/ek06j"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "MVR"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 15.35"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/ek06j"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/eleqw"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "MXN"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 19.1826"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/eleqw"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/emtbd"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "MYR"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 4.153"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/emtbd"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/eczce"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "NAD"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 14.72"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/eczce"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/eedwv"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "NGN"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 361.5"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/eedwv"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/efsh8"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "NIO"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 33.67568"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/efsh8"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/eh71p"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "NOK"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 9.09138"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/eh71p"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/etu5e"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "NPR"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 114.6797"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/etu5e"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/ev8pv"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "NZD"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 1.561646"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/ev8pv"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/ewna8"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "OMR"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 0.3850316"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/ewna8"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/ey1up"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "PEN"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 3.382046"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/ey1up"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/eo7vq"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "PGK"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 3.439867"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/eo7vq"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/epmg7"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "PHP"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 50.59043"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/epmg7"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/er10k"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "PKR"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 155.0288"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/er10k"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/esfl1"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "PLN"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 3.8677"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/esfl1"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/a59y2"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "PYG"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 6433.904"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/a59y2"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/a6oij"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "QAR"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 3.641"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/a6oij"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/a832w"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "RON"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 4.3164"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/a832w"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/a9hnd"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "RSD"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 106.25"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/a9hnd"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/9znoe"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "RUB"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 63.748"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/9znoe"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/a128v"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "SAR"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 3.750262"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/a128v"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/a2gt8"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "SCR"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 13.68165"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/a2gt8"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/a3vdp"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "SEK"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 9.6527"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/a3vdp"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/agihe"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "SGD"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 1.360395"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/agihe"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/ahx1v"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "SLL"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 9675"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/ahx1v"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/ajbm8"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "THB"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 30.27155"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/ajbm8"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/akq6p"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "TND"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 2.854"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/akq6p"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/aaw7q"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "TRY"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 5.7447"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/aaw7q"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/acas7"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "TTD"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 6.768615"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/acas7"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/adpck"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "TWD"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 30.505"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/adpck"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/af3x1"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "TZS"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 2299.974"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/af3x1"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/arr0q"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "UAH"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 24.15128"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/arr0q"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/at5l7"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "UGX"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 3683.548"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/at5l7"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/auk5k"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "USD"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: #N/A"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/auk5k"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/avyq1"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "UYU"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 37.51957"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/avyq1"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/am4r2"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "UZS"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 9483.409"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/am4r2"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/anjbj"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "VEF"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: #N/A"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/anjbj"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/aoxvw"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "VND"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 23164.7"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/aoxvw"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/aqcgd"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "XOF"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 593.5564"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/aqcgd"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/b2zk2"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "YER"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 250.35"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/b2zk2"
+          }
+        ]
+      },
+      {
+        id: {
+          $t: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/b4e4j"
+        },
+        updated: {
+          $t: "2019-11-17T15:33:41.066Z"
+        },
+        category: [
+          {
+            scheme: "http://schemas.google.com/spreadsheets/2006",
+            term: "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        title: {
+          type: "text",
+          $t: "ZAR"
+        },
+        content: {
+          type: "text",
+          $t: "_cokwr: 14.70929"
+        },
+        link: [
+          {
+            rel: "self",
+            type: "application/atom+xml",
+            href: "https://spreadsheets.google.com/feeds/list/1b3T-mkqrJWtcZW73i7YmaeSqnvEmFJNvo3EBsDOHhdg/2/public/basic/b4e4j"
+          }
+        ]
+      }
+    ]
+  }
+}

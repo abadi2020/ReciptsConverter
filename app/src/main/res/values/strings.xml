@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Receipts Converter</string>
+    <string name="app_ver">V1.2</string>
+    <string name="app_dev">Abdullah Basaad</string>
+    <string name="app_date">Nov 24, 2019</string>
+    <string name="fromTxt">From Currency</string>
+    <string name="toTxt">To Currency</string>
+    <string name="TakePicTxt">Capture the recipt!</string>
+    <string name="ErrorSameCurr">No currency conversion required!</string>
+    <string name="LastReceiptTxt">Your last receipt information:</string>
+    <string name="DevByTxt">Developed By:</string>
+    <string name="VerRelTxt">Version Release:</string>
+    <string name="DescriptionTxt">Receipts Converter will help you convert your receipts\nfrom and to any currency!\nIt converts from any language as long as\n numbers written in english.</string>
+    <string name="NoteTxt">NOTE: Currencies are retrieved from Google Feeds</string>
+    <string name="AboutTxt">About</string>
+    <string name="ReceiptPicDes">Receipt will eventually appear here</string>
+</resources>
